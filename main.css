@@ -7,7 +7,7 @@ h1 {
 }
 h2 {
     font-family: fantasy;
-    color:rgb(255, 0, 145);
+    color:cyan;
 }
 li {
     font-family: 'Trebuchet MS';
@@ -15,11 +15,11 @@ li {
 }
 p {
     font-family: 'Trebuchet MS';
-    color:rgb(0, 191, 255);
+    color:white;
 }
 a {
   font-family: 'Trebuchet MS';
-    color:rgb(000, 191, 255)  
+    color: white  
 }
 button {
     font-family: 'Trebuchet MS';
@@ -29,4 +29,13 @@ button {
 }
 button:hover {
     background-color:rgb(255, 0, 135);
+}
+a:hover {
+    color: black
+}
+.navbutton {
+    justify-content: center;
+}
+.homebutton {
+    justify-content: right;
 }
