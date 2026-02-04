@@ -1,0 +1,41 @@
+html {
+  Background: rgb(0, 65, 0)
+}
+h1 {
+    font-family: fantasy;
+    color: rgb(30, 255, 30);
+}
+h2 {
+    font-family: fantasy;
+    color: rgb(0, 200, 0);
+}
+li {
+    font-family: 'Trebuchet MS';
+    color: white
+}
+p {
+    font-family: 'Trebuchet MS';
+    color:white;
+}
+a {
+  font-family: 'Trebuchet MS';
+    color: white  
+}
+button {
+    font-family: 'Trebuchet MS';
+    padding: 15px;
+    background-color:rgb(30, 255, 30);
+    color:rgb(0, 0, 0)
+}
+button:hover {
+    background-color:rgb(30, 30, 30);
+}
+a:hover {
+    color: white
+}
+.navbutton {
+    justify-content: center;
+}
+.homebutton {
+    justify-content: right;
+}
