@@ -21,21 +21,25 @@ a {
   font-family: 'Trebuchet MS';
     color: white  
 }
-button {
+button,.button {
     font-family: 'Trebuchet MS';
     padding: 15px;
     background-color:rgb(255, 0, 145);
-    color:rgb(0, 0, 0)
+    color:rgb(255, 255, 255);
 }
-button:hover {
+button:hover,.button:hover {
     background-color:rgb(255, 0, 135);
-}
-a:hover {
     color: black
 }
 .navbutton {
-    justify-content: center;
+    text-align: center;
 }
 .homebutton {
-    justify-content: right;
+    text-align: right;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    padding: 0;
 }
