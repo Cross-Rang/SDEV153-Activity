@@ -1,23 +1,36 @@
 <head>
   <link rel="stylesheet" href="main.css">
 </head>
+<style>
+    .mainimage {
+        display: flex;
+        justify-content: center;
+    }
+</style>
 
+<header>
 <h1 align="center">Explore Hell</h1>
+<h2 align="center">Click the buttons below to learn more about each ring of hell.</h2>
+</header>
 
 <div class="mainimage">
-<img src="https://placehold.co/600x400" alt="A map of the underworld">
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/115242518_0NlQefBao7dMvax.png" alt="A map of the underworld">
 </div>
 
-<div class="navbutton">
-    <button><a href="Limbo">Limbo</a></button>
-    <button><a href="/lust.html">Lust</a></button>
-    <button><a href="gluttony.html">Gluttony</a></button>
-    <button><a href="greed.html">Greed</a></button>
-    <button><a href="Anger.html">Anger</button>
+<div class="navigation">
+    <a class="navbutton" href="Limbo">Limbo</a>
+    <a class="navbutton" href="/lust.html">Lust</a>
+    <a class="navbutton" href="gluttony.html">Gluttony</a>
+    <a class="navbutton" href="greed.html">Greed</a>
+    <a class="navbutton" href="Anger.html">Anger</a>
 </div>
-<div class="secondarynav">
-    <button><a href="heresy.html">Heresy</a></button>
-    <button><a href="violence.html">Violence</a></button>
-    <button><a href="fraud.html">Fraud</a></button>
-    <button><a href="treachery.html">Treachery</a></button>
+<div class="navigation">
+    <a class="navbutton" href="heresy.html">Heresy</a>
+    <a class="navbutton" href="violence.html">Violence</a>
+    <a class="navbutton" href="fraud.html">Fraud</a>
+    <a class="navbutton" href="treachery.html">Treachery</a>
+</div>
+
+<div class="homebutton">
+<a href="/index.html" class="navbutton">Go Back</a>
 </div>
