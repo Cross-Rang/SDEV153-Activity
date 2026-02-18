@@ -2,11 +2,11 @@ html {
   Background: black;
 }
 h1 {
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
     color:rgb(255, 0, 145);
 }
 h2 {
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
     color:cyan;
 }
 li {
@@ -21,21 +21,31 @@ a {
   font-family: 'Trebuchet MS';
     color: white  
 }
-button {
-    font-family: 'Trebuchet MS';
-    padding: 15px;
-    background-color:rgb(255, 0, 145);
-    color:rgb(0, 0, 0)
-}
-button:hover {
-    background-color:rgb(255, 0, 135);
-}
-a:hover {
-    color: black
-}
+
 .navbutton {
-    justify-content: center;
+  background-color: rgb(255, 0, 145);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.875rem;
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding: 14px 32px;
+ }
+
+.navbutton:hover {
+    background-color:rgb(255, 0, 135)
 }
-.homebutton {
-    justify-content: right;
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
