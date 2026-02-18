@@ -1,47 +1,65 @@
 <head>
   <link rel="stylesheet" href="main.css">
 </head>
-<h1 align="center">Limbo</h1>
-<h2 align="center">The Crown of Hell</h2>
 
-
-<img class="Heading" src="https://placehold.co/800x200" alt="Insert Alt text later">
-
-
-<div>
-    <p>Limbo is the capital city of Hell, situated directly in the center. There is no color, the only spark you will see is from the current ruler of hell. It’s cold, with souls frozen over in the moat for later extraction. The castle in the center is tall and foreboding, you will have to walk over long, empty cobblestone bridges to access. There are no resident species in Limbo, no one lives there outside of the three royals and the occasional injured apparition. Necessary visitations are kept to a minimum as ensuring the living world can continue takes precedence over much else. It is barren every day of the waking year. </p>
+<header>
+    <h1 align="center">Limbo</h1>
+    <h2 align="center">The Crown of Hell</h2>
+    <h1 align="center" alt="break">_________</h1>
+</header>
+<body>
+    <p>Limbo is the capital city of Hell, situated directly in the center. There is no color, the only spark you will see is from the current ruler of hell. It’s cold, with souls frozen over in the moat for later extraction. The castle in the center is tall and foreboding, you will have to walk over long, empty cobblestone bridges to access. There are no resident species in Limbo, no one lives there outside of the three royals and the injured. Necessary visitations are kept to a minimum as ensuring the living world can continue takes precedence over much else. It is barren every day of the waking year.</p>
     <p>Except for the final month of the year.</p>
     <p>In this final month there are optimally no sinners left in the ring, operations are halted, the wanderers return, and Limbo truly becomes a crossroads for working demons to visit other rings. It truly becomes a bustling capital as many assume it would be. Each region of the living world has its own holiday based around this event, as despite the negative impact on the soul cycle it’s a source of great joy and relaxation for the demons and allows recovery for the following year.</p>
-</div>
+</body>
 
+<h1 align="center" alt="break">_________</h1>
 
-<h2 align="center">Angels</h2>
-<div>
+<sub>
+    <h2 align="center">Angels</h2>
+</sub>
+<body>
     <p>Angels are less individuals and more… concepts. They exist between the physical realm of Hell and the transient realm of souls, only to deliver sinners to hell. They come off as inherently wrong to anyone who encounters one. Their eyes and mouth never move, their bodies always seem to hide something horrifying, and they always speak as if they already know you. Most beings will never encounter an angel, ever. If you end up in hell one way or the other, well. You already know two of them.</p>
-    <p> The Duke and Duchess of Hell are special cases for angels. Due to their time in Limbo they’ve become inseparable concept-wise and reflect that in each other. Dark and light, sadism and mercy, left and right, sickness and health, life and death. No other section of the underworld has had a duke and duchess so deeply entwined. </p>
-</div>
-<h2 align="center">Lost Souls</h2>
-<div>
+    <p>The Duke and Duchess of Hell are special cases for angels. Due to their time in Limbo they’ve become inseparable concept-wise and reflect that in each other. Dark and light, sadism and mercy, left and right, sickness and health, life and death. No other section of the underworld has had a duke and duchess so deeply entwined.</p>
+</body>
+
+<sub>
+    <h2 align="center">Lost Souls</h2>
+</sub>
+<body>
     <p>Sometimes when someone dies, they are unable to pass on despite not being a sinner. This happens when one’s death is particularly unjust, self-inflicted, or they were simply doing right the wrong way. These souls are also taken to hell, but not to be punished. Instead, they get a second chance. The ability to live their life again, tormenting those who encouraged their fates. Sometimes these lost souls become a sort of demon, designated by their sclera blackening. Should they remain the same, their eyes too remain stagnant.</p>
-</div>
+</body>
 
+<h1 align="center" alt="break">_________</h1>
 
-<h2 align="center">Queen of Hell, Destiny</h2>
-<div>
+<sub>
+    <h2 align="center">Queen of Hell, Destiny</h2>
+</sub>
+<body> 
     <p><em>Hail the queen, the ruler of Limbo. The woman, her past, ripped apart by her former friend’s arrogance. She had nothing left in this world, as the world believed only her guilt and crimes. She’d lost everything, left a nameless, empty, enraged soul. Full of unholy rage and a desperate need of vengeance, she clawed her way up to hell having not even died. As she grew closer, she attempted to reconcile these thoughts, but the need of vengeance assumed her whole being, took over her, possessed her not unlike her past.</em></p>
     <p><em>Hail Destiny, new queen of Hell, who had murdered the former king Melancholy. Hail her, who named herself with what she lacked. Hail her, who controls the nine rings, the fate of sinners, and the sins themselves. Pray for her mercy to be granted once you die, for her hatred and need of vengeance will not be kind to you should you find yourself on Hell’s peak. Hail Destiny of Punishment and Revenge.</em></p>
-</div>
+</body>
 
+<sub>
+    <h2 align="center">Duke of Hell, Formatti</h2>
+</sub>
+<body> 
+    <p><em>Do you ever think about hell? How does its operations run so smoothly? After all, the apparitions are only one person, often sequestered and only accessed by the pinnacles of sinners, roaming through their rings to strike fear into their tainted hearts. While evil, many sinners don’t meet the requirements to be damned to speak to an apparition. This is where the reapers come in. They work directly with their apparition, making sure each sinner goes to where they belong and get punished as they deserve. While they rarely directly get their hands dirty, they ensure the ring never falters, even in the case of disaster.</em></p>
+    <p><em>Indeed, there is one reaper I believe to be more overworked than the rest - Calatrix Formatti. He’s the secretary of Limbo itself so to speak, he must ensure all sinners and their files get to their respective rings, all of the queen’s orders come through, and ensure Hell itself runs smoothly. Thankfully he only worries for the other reapers, but it’s still a large task is it not? He must know all of their routines, routes, and orders in case one of them is out of commission, and he must integrate new in-housers into their roles seamlessly. I’ve heard he’s so laser focused that he’ll slit the throats of those who bother him unless it’s important so they won’t bother anyone again.</em></p>
+</body>
 
-<h2 align="center">Duke of Hell, Callisto Formatti</h2>
-<div>
-    <p><em>Paragraph 1</em></p>
-    <p><em>Paragraph 2</em></p>
-</div>
+<sub>
+    <h2 align="center">Duchess of Hell, Dante</h2>
+</sub>
+<body> 
+    <p><em>There will always be evil in the world. People will always choose to harm others, people will always be selfish, people will always make others’ days a little worse. That is simply the price we pay for having free will. You won’t always be morally good, and that’s okay. But when the evil in the world becomes unmanageable, that is when you will hear of the Wanderers. Entities from hell who wander the living world, taking the souls of the corrupted. They are the people you are warned of when you make selfish wishes. They are the people that others tell you to face. They are the devil. They aren’t evil, just bound by a different morality than you or I.</em></p>
+    <p><em>But, out of all the wanderers, Dante is the one you must never meet. Do not summon her. Do not speak to her. If you do so, you will be damned for all eternity. She never seeks those out like the other wanderers. She never creates honeypots, she never hunts you down, she doesn’t promise anything, she simply guides the others. Should you be stupid enough to summon her, she will tell you not to proceed, not to speak, not to even think, simply to close your eyes and forget she was there. She blesses those who change their hearts, but you should never assume she doesn’t know why you summoned her. No one knows what her blessing is. Anyone granted it is too scared of her to speak of her ever again.</em></p>
+</body>
 
+<h1 align="center" alt="break">_________</h1>
 
-<h2 align="center">Duchess of Hell, Dante Infernal</h2>
-<div>
-    <p>Paragraph 1</p>
-    <p>Paragraph 2</p>
+<div class="navigation">
+    <a class="navbutton" href="NineRingsLanding">Return</a>
+    <a class="navbutton" href="index.html">Home</a>
+    <a class="navbutton" href="lust.html">Lust</a>
 </div>
