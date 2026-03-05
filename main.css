@@ -13,6 +13,14 @@ li {
     font-family: 'Trebuchet MS';
     color: white
 }
+table {
+  border:1.5rem rgb(255, 0, 145);
+  
+td {
+  font-family: 'Trebuchet MS';
+  color:white;
+}
+  
 p {
     font-family: 'Trebuchet MS';
     color:white;
