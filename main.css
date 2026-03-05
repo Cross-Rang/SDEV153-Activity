@@ -3,28 +3,30 @@ html {
 }
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(255, 0, 145);
+    color: rgb(255, 0, 145);
 }
 h2 {
     font-family: 'Times New Roman', Times, serif;
-    color:cyan;
+    color: cyan;
 }
 li {
     font-family: 'Trebuchet MS';
     color: white
 }
 table {
-  border:1.5rem rgb(255, 0, 145);
+  border-style: solid;
+  border-width: medium;
+  boder-color: rgb(255, 0, 145)
 }
   
 td {
-  font-family: 'Trebuchet MS';
-  color:white;
+  font-family:'Trebuchet MS';
+  color: white;
 }
   
 p {
     font-family: 'Trebuchet MS';
-    color:white;
+    color: white;
 }
 
 a {
