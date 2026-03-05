@@ -21,6 +21,7 @@ table {
 td {
     font-family:'Trebuchet MS';
     color: white;
+    display: flex;
 }
 p {
     font-family: 'Trebuchet MS';
