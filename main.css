@@ -11,12 +11,12 @@ h2 {
 }
 li {
     font-family: 'Trebuchet MS';
-    color: white
+    color: white;
 }
 table {
     border-style: solid;
     border-width: medium;
-    border-color: rgb(255, 0, 145)
+    border-color: rgb(255, 0, 145);
 }
 td {
     font-family:'Trebuchet MS';
@@ -32,7 +32,7 @@ p {
 
 a {
     font-family: 'Trebuchet MS';
-    color: white  
+    color: white;  
 }
 
 .navbutton {
