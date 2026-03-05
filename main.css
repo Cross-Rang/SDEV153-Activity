@@ -1,5 +1,5 @@
 html {
-  Background: black;
+    Background: black;
 }
 h1 {
     font-family: 'Times New Roman', Times, serif;
@@ -14,38 +14,39 @@ li {
     color: white
 }
 table {
-  border-style: solid;
-  border-width: medium;
-  boder-color: rgb(255, 0, 145)
+    border-style: solid;
+    border-width: medium;
+    boder-color: rgb(255, 0, 145)
 }
-  
 td {
-  font-family:'Trebuchet MS';
-  color: white;
+    font-family:'Trebuchet MS';
+    color: white;
 }
-  
 p {
     font-family: 'Trebuchet MS';
+    font-size: 18px;
+    letter-spacing: 1.5px;
     color: white;
+    margin: 1.5px;
 }
 
 a {
-  font-family: 'Trebuchet MS';
+    font-family: 'Trebuchet MS';
     color: white  
 }
 
 .navbutton {
-  background-color: rgb(255, 0, 145);
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 0.875rem;
-  flex-grow: 0;
-  flex-shrink: 0;
-  padding: 14px 32px;
+    background-color: rgb(255, 0, 145);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.875rem;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 14px 32px;
  }
 
 .navbutton:hover {
