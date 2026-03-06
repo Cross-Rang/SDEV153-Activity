@@ -13,7 +13,7 @@ guestForm.addEventListener('submit', function (e) {
                 <h2>${name}</h2>
                 <p>${comment}</p>;
                 
-    guestList.appendChild(guestCard);
+    .guestList.appendChild(guestCard);
 
     guestForm.reset();
 });
