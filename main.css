@@ -85,7 +85,7 @@ img {
     font-size: 12px;
 }
 
-.btn button {
+button {
     background-color: cyan;
     color: black;
     display: inline-flex;
