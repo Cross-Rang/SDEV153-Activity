@@ -7,11 +7,9 @@ guestForm.addEventListener('submit', function (e) {
     const name = document.getElementById('name').value;
     const comment = document.getElementById('comment').value;
 
-    const guestCard = document.createElement('div');
-    guestCard.classList.add('guest-card');
+    const guestCard = document.createElement('li');
     guestCard.innerHTML =
-                <h2>${name}</h2>
-                <p>${comment}</p>;
+                <p><strong>${name}:<strong>${comment}</p>;
                 
     .guestList.appendChild(guestCard);
 
