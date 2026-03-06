@@ -5,15 +5,7 @@
     <link rel="stylesheet" href="main.css">
 </head>
 
-<style>
-    .navbutton {
-    background-color: cyan;
- }
-
-.navbutton:hover {
-    background-color:rgb(0, 210, 255);
-}
-</style>
+<a href="index.html" class="navbutton" tabindex="1">Go Back</a>
 
 <header>
   <h1 align="center">Guestbook</h1>
@@ -29,14 +21,14 @@
   <form id="guestForm">
     <div class="form-input">
       <label for="name">Name:</label>
-      <input type="text" id="name" name="name" required>
+      <input tabindex="2" type="text" id="name" name="name" required>
     </div>
     <div class="form-input">
       <label for="comment">Comment:</label>
-      <input type="text" id="comment" name="comment">
+      <input tabindex="3" type="text" id="comment" name="comment">
     </div>
      <div class="btn">
-       <button class="navbutton" type="submit">Submit</button>
+       <button tabindex="4" type="submit">Submit</button>
      </div>
   </form>
     <div id="guestList"></div>
