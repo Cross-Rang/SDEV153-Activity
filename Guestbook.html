@@ -14,23 +14,25 @@
   <h2 align="center">How was the site? Leave some feedback or just say you were here!</h2>
 </sub>
 <body>
-  <p>Please remember this site is public, do not share any personal information you wouldn't want on.</p>
+  <p>Please remember this site is public, do not share any personal information you wouldn't want online.</p>
 </body>
         
 <body>
-  <form id="guestForm">
-    <div class="form-input">
-      <label for="name">Name:</label>
-      <input tabindex="2" type="text" id="name" name="name" required>
+    <div class="container">
+      <form id="guestForm">
+        <div class="form-input">
+          <label for="name">Name:</label>
+          <input tabindex="2" type="text" id="name" name="name" required>
+        </div>
+        <div class="form-input">
+          <label for="comment">Comment:</label>
+          <input tabindex="3" type="text" id="comment" name="comment">
+        </div>
+         <div class="btn">
+           <button tabindex="4" type="submit">Submit</button>
+         </div>
+      </form>
     </div>
-    <div class="form-input">
-      <label for="comment">Comment:</label>
-      <input tabindex="3" type="text" id="comment" name="comment">
-    </div>
-     <div class="btn">
-       <button tabindex="4" type="submit">Submit</button>
-     </div>
-  </form>
     <div id="guestList"></div>
-  <script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
