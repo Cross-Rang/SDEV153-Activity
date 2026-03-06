@@ -7,11 +7,12 @@ guestForm.addEventListener('submit', function (e) {
     const name = document.getElementById('name').value;
     const comment = document.getElementById('comment').value;
 
+    const ul = document.getElementById("guestList");
     const guestCard = document.createElement('li');
     guestCard.innerHTML =
                 <p><strong>${name}:<strong>${comment}</p>;
                 
-    .guestList.append(guestCard);
+    guestList.append(guestCard);
 
     guestForm.reset();
 });
