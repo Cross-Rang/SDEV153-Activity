@@ -88,17 +88,9 @@ img {
 button {
     background-color: cyan;
     color: black;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    font-family: 'Trebuchet MS';
-    text-decoration: none;
-    font-weight: 500;
-    font-size: 0.875rem;
-    flex-grow: 0;
-    flex-shrink: 0;
-    padding: 14px 32px;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-size: 12px;
 }
 
 .guest-card {
