@@ -53,12 +53,28 @@ a {
     background-color:rgb(255, 0, 135)
 }
 
-.navigation {
-    display: flex;
-    justify-content: space-around;
-}
-
 img {
   max-width: 75%;
   height: auto;
+}
+
+form {
+    background-color: rgb(255, 0, 145);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}    
+
+label {
+    font-family: 'Trebuchet MS';
+    color: white; 
+    font-size: 18px;
+}
+
+input {
+    font-family: 'Trebuchet MS';
+}
+
+input:hover {
+    background-color: rgb(200, 200, 200)
 }
