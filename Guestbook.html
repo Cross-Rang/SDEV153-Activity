@@ -8,11 +8,11 @@
 <a href="index.html" class="navbutton" tabindex="1">Go Back</a>
 
 <header>
-  <h1 align="center">Guestbook</h1>
+  <h1 align="center">Guest Cards</h1>
 </header>
 <sub>
-  <h2 align="center">How was the site? Leave some feedback, ask a question, or just say you were here!</h2>
-    <p></p>
+  <h2 align="center">Yes, Hell has souvineurs!</h2>
+    <p>Please fill out all fields for a personalized card just to say you visited. Note: In my testing this does not end up on the site. It's just a little souvineur.</p>
 </sub>
 
 
@@ -27,13 +27,27 @@
                        required>
             </div>
             <div class="form-input">
-                <label for="address">Address:</label>
+                <label for="site">How you found the site:</label>
                 <input type="text" 
-                       id="address" name="address" 
+                       id="site" name="site" 
+                       required>
+            </div>
+            <div class="form-input">
+                <label for="rating">Opinion:</label>
+                <input type="text" 
+                       id="rating" name="rating" 
+                       required>
+            </div>
+            <div class="form-input">
+                <label for="comment">
+                  Comment:
+                  </label>
+                <input type="text" 
+                       id="comment" name="comment" 
                        required>
             </div>
             <div class="btn"><button type="submit">
-                    Add Guest
+                    Submit
                 </button></div>
         </form>
         <div id="guestList"></div>
