@@ -12,10 +12,10 @@ guestForm.addEventListener('submit', function (e) {
     const guestCard = document.createElement('div');
     guestCard.classList.add('guest-card');
     guestCard.innerHTML = `
-                <h2>I, ${name}, went to Hell and all I got was this card.</h2>
-                <p><strong>Where I found Hell:</strong> ${site}</p>
-                <p><strong>Opinion of Hell:</strong> ${rating}</p>
-                <p><strong>Additional Comments:</strong> ${comment}</p>
+                <h2>I, ${name} , went to Hell and all I got was this card.</h2>
+                <p><strong>Where I found Hell:</strong> ${site} </p>
+                <p><strong>Opinion of Hell:</strong> ${rating} </p>
+                <p><strong>Additional Comments:</strong> ${comment} </p>
                 <p><strong>We hope to see you again sometime!</strong></p>`;
 
     guestList.appendChild(guestCard);
