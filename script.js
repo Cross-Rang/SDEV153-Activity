@@ -10,7 +10,9 @@ guestForm.addEventListener('submit', function (e) {
     const guestCard = document.createElement('div');
     guestCard.classList.add('guest-card');
     guestCard.innerHTML = `
-                <p><strong>${name}:</strong> ${address}</p>;
+                <h2>${name}</h2>
+                <p><strong>Comment:</strong> ${address}</p>
+                
 
     guestList.appendChild(guestCard);
 
